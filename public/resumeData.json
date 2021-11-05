@@ -1,25 +1,25 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
+    "name": "Sebastian Echtler",
+    "occupation": "Dynamics 365 and .NET Developer.",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "mail@echtlersebastian.de",
+    "phone": "0176 81547312",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "Joseph-Seifried-Straße 21",
+      "city": "Munich",
+      "state": "Bavaria",
+      "zip": "80955"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.echtlersebastian.de",
+    "resumedownload": "http://echtlersebastian.de",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "http://facebook.com/",
         "className": "fa fa-facebook"
       },
       {
@@ -29,17 +29,17 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/sebastian-echtler-293889154/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/sechtler95/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/echtlersebastian",
         "className": "fa fa-github"
       }
     ]
@@ -48,16 +48,10 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Hochschule Kempten",
+        "degree": "B.Sc. Informatik – Game Engineering",
+        "graduated": "2013 - 2017",
+        "description": ""
       }
     ],
     "work": [
@@ -68,10 +62,34 @@
         "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "BMW Group",
+        "title": "Internship at Prokuktaudit",
+        "years": "November 2015 - May 2016",
+        "description": "During my internship i did a lot of Excel and SharePoint Automation. I also helped revising processes and developed techical solutions for the various problems."
+      },
+      {
+        "company": "BMW Group",
+        "title": "Internship at Prokuktaudit",
+        "years": "November 2015 - May 2016",
+        "description": "During my internship i did a lot of Excel and SharePoint Automation. I also helped revising processes and developed techical solutions for the various problems."
+      },
+      {
+        "company": "BMW Group",
+        "title": "Thesis Working Student",
+        "years": "May 2017 - October 2017",
+        "description": ""
+      },
+      {
+        "company": "Liebherr-Verzahntechnik GmbH",
+        "title": "Working Student Softwaredevelopement",
+        "years": "May 2016 - May 2017",
+        "description": "As a working Student i mostly worked on a SharePoint Project to automate some Processes. I developed a .Net based WPF Application, that did a lot of Word and PDF Magic for the users and saved them a lot of time."
+      },
+      {
+        "company": "BMW Group",
+        "title": "Internship at Prokuktaudit",
+        "years": "November 2015 - May 2016",
+        "description": "During my internship i did a lot of Excel and SharePoint Automation. I also helped revising processes and developed techical solutions for the various problems."
       }
     ],
     "skills": [
@@ -142,8 +160,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Never spend 6 Minutes doing something by hand when you can spend 6 hours failing to automate it!",
+        "user": "angry Developer"
       },
       {
         "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
