@@ -3,9 +3,9 @@
     "name": "Sebastian Echtler",
     "occupation": " Dynamics 365 Consultant and .NET Developer.",
     "description": "Welcome to my Homepage! Feel free to look around and get to know some of my recent Projects.  Contact me, if you have any questions left!",
-    "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "image": "https://avatars.githubusercontent.com/u/37330287?v=4",
+    "bio": "Hey! I am a tech focused guy with an entrepreneurial spirit and a passion for coding. I love to see the progress, no matter if i reach some milestone in a project or achieving some personal life goals. I am the guy you can discuss with about any technology. I am that kind of optimist, that thinks everybody can make the change towards a better future for everyone. I am always thrilled to learn more so currently i try to learn chess! In my free time i also like to do sports or go fishing. ",
+    "contactmessage": "I am sorry, but the Contact Form is currently not working. Please reach out to me via mail or LinkedIn. I will fix the Contact form soon. ",
     "email": "mail@echtlersebastian.de",
     "phone": "0176 81547312",
     "address": {
@@ -35,7 +35,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here are some of my core skills:",
     "education": [
       {
         "school": "Hochschule Kempten",
@@ -45,29 +45,24 @@
       }
     ],
     "work": [
+     
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "CGI",
+        "title": "Senior Consultant",
+        "years": "August 2019 - today",
+        "description": "I am currently working as a Senior Consultant at CGI. I am responsible of the technical implementation of different Dynamcis 365 Environments for our Clients. I am also responsible for some internal Projects like the developement of different MS Teams-Apps or a .NET/Angular Web Service."
+      },
+      {
+        "company": "Acando",
+        "title": "Junior Consultant for Microsoft technologies",
+        "years": "October 2017 - August 2019",
+        "description": "I started my professional Carrer at Acando in Munich. I mainly worked with Microsoft technologies for various different Clients. I also started working on Dynamics 365 (onPremise and in the cloud)."
       },
       {
         "company": "BMW Group",
-        "title": "Internship at Prokuktaudit",
-        "years": "November 2015 - May 2016",
-        "description": "During my internship i did a lot of Excel and SharePoint Automation. I also helped revising processes and developed techical solutions for the various problems."
-      },
-      {
-        "company": "BMW Group",
-        "title": "Internship at Prokuktaudit",
-        "years": "November 2015 - May 2016",
-        "description": "During my internship i did a lot of Excel and SharePoint Automation. I also helped revising processes and developed techical solutions for the various problems."
-      },
-      {
-        "company": "BMW Group",
-        "title": "Thesis Working Student",
+        "title": "Thesis / Working Student",
         "years": "May 2017 - October 2017",
-        "description": ""
+        "description": "I wrote my Bachelors Thesis at BMW in Munich. I created a SharePoint based .Net-Application to support the Auditors during the audit process."
       },
       {
         "company": "Liebherr-Verzahntechnik GmbH",
@@ -84,66 +79,57 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Microsoft Dynamics 365",
+        "level": "100%"
+      },{
+        "name": "Microsoft Power Platform",
+        "level": "100%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Microsoft Azure",
+        "level": "95%"
       },
       {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
+        "name": ".NET",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "C#",
+        "level": "90%"
+      },
+      {
+        "name": "Agile Frameworks",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "React",
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Echtler-Mobile",
+        "category": "Ihr Partner für Wohnmobile im Allgäu",
+        "image": "Echtler-Mobile.png",
+        "url": "https://www.echtler-mobile.de"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Perso Status Checker",
+        "category": "I provide a service to automatically check the status of your ID at Bürgerbüro in Munich.",
+        "image": "Perso-Check.png",
+        "url": "https://www.perso-check.de/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Find more Projects at GitHub!",
+        "category": "Feel free to checkout my public Repositories at Github. If you have any questions, feel free to ask me!",
+        "image": "GitHub.png",
+        "url": "https://github.com/echtlersebastian"
       }
     ]
   },
@@ -154,7 +140,7 @@
         "user": "angry Developer"
       },
       {
-        "text": "Your willingness to take risks scares me, but your success proves you are right.",
+        "text": "Your willingness to take risks scares me, but your success proves you right.",
         "user": "Colleague"
       }
     ]
