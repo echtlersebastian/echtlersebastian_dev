@@ -2,10 +2,11 @@
   "main": {
     "name": "Sebastian Echtler",
     "occupation": " Dynamics 365 Consultant and .NET Developer.",
-    "description": "Welcome to my Homepage! Feel free to look around and get to know some of my recent Projects.  Contact me, if you have any questions left!",
+    "description": "Get to know me and projects I am working on at the moment.",
+    "description2": "Let me know, if you have any questions!",
     "image": "https://avatars.githubusercontent.com/u/37330287?v=4",
-    "bio": "Hey! I am a tech focused guy with an entrepreneurial spirit and a passion for coding. I love to see the progress, no matter if i reach some milestone in a project or achieving some personal life goals. I am the guy you can discuss with about any technology. I am that kind of optimist, that thinks everybody can make the change towards a better future for everyone. I am always thrilled to learn more so currently i try to learn chess! In my free time i also like to do sports or go fishing. ",
-    "contactmessage": "I am sorry, but the Contact Form is currently not working. Please reach out to me via mail or LinkedIn. I will fix the Contact form soon. ",
+    "bio": "Hey! I am a tech focused guy with an entrepreneurial spirit and a passion for coding. I love to see progress being made, if it's reaching a milestone on a project or achieving personal life goals. I love discussing all things technological. It is my personal belief that everybody can make a change towards a better future for everyone. I am always thrilled to learn more, which is why I am currently trying to learn chess! In my free time i like going to the gym or spending time outdoors on a camping trip or fishing. ",
+    "contactmessage": "I am sorry, the Contact Form is currently not working. Please reach out to me via E-Mail or LinkedIn. I am working on fixing it. ",
     "email": "mail@echtlersebastian.de",
     "phone": "0176 81547312",
     "address": {
@@ -50,13 +51,13 @@
         "company": "CGI",
         "title": "Senior Consultant",
         "years": "August 2019 - today",
-        "description": "I am currently working as a Senior Consultant at CGI. I am responsible of the technical implementation of different Dynamcis 365 Environments for our Clients. I am also responsible for some internal Projects like the developement of different MS Teams-Apps or a .NET/Angular Web Service."
+        "description": "I am currently working as a Senior Consultant at CGI. I am responsible for the technical implementation of different Dynamcis 365 Environments for our clients. I am also responsible for several internal projects like the developement of different MS Teams-Apps or a .NET/Angular Web Service."
       },
       {
         "company": "Acando",
         "title": "Junior Consultant for Microsoft technologies",
         "years": "October 2017 - August 2019",
-        "description": "I started my professional Carrer at Acando in Munich. I mainly worked with Microsoft technologies for various different Clients. I also started working on Dynamics 365 (onPremise and in the cloud)."
+        "description": "I started my professional Career at Acando in Munich. I mainly worked with Microsoft technologies for various different Clients. I also started working on Dynamics 365 (onPremise and in the cloud)."
       },
       {
         "company": "BMW Group",
@@ -68,13 +69,13 @@
         "company": "Liebherr-Verzahntechnik GmbH",
         "title": "Working Student Softwaredevelopement",
         "years": "May 2016 - May 2017",
-        "description": "As a working Student i mostly worked on a SharePoint Project to automate some Processes. I developed a .Net based WPF Application, that did a lot of Word and PDF Magic for the users and saved them a lot of time."
+        "description": "As a working Student i mostly worked on a SharePoint Project to automate processes. I developed a .Net based WPF Application, that did a lot of Word and PDF Magic for the users, saving them a lot of time."
       },
       {
         "company": "BMW Group",
         "title": "Internship at Prokuktaudit",
         "years": "November 2015 - May 2016",
-        "description": "During my internship i did a lot of Excel and SharePoint Automation. I also helped revising processes and developed techical solutions for the various problems."
+        "description": "During my internship I mostly worked on Excel and SharePoint Automation. I also helped revising processes and developed techical solutions for the various problems."
       }
     ],
     "skills": [
