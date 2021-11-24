@@ -117,19 +117,19 @@
       {
         "title": "Echtler-Mobile",
         "category": "Ihr Partner für Wohnmobile im Allgäu",
-        "image": "Echtler-Mobile.png",
+        "image": "https://raw.githubusercontent.com/echtlersebastian/echtlersebastian_dev/master/public/images/Echtler-Mobile.PNG",
         "url": "https://www.echtler-mobile.de"
       },
       {
         "title": "Perso Status Checker",
         "category": "I provide a service to automatically check the status of your ID at Bürgerbüro in Munich.",
-        "image": "Perso-Check.png",
+        "image": "https://raw.githubusercontent.com/echtlersebastian/echtlersebastian_dev/master/public/images/Perso-Check.PNG",
         "url": "https://www.perso-check.de/"
       },
       {
         "title": "Find more Projects at GitHub!",
         "category": "Feel free to checkout my public Repositories at Github. If you have any questions, feel free to ask me!",
-        "image": "GitHub.png",
+        "image": "https://raw.githubusercontent.com/echtlersebastian/echtlersebastian_dev/master/public/images/Github.PNG",
         "url": "https://github.com/echtlersebastian"
       }
     ]
