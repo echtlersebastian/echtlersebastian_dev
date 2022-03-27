@@ -19,9 +19,9 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2021 Sebastian Echtler</li>
+              <li>&copy; Copyright 2022 Sebastian Echtler</li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
-              <li>Shoutout to Tim Baker for prividing this awesome Template! Check him out at his <a href="https://github.com/tbakerx">Github</a></li>
+              <li>Shoutout to Tim Baker for providing this awesome Template! Check him out at his <a href="https://github.com/tbakerx">Github</a></li>
            </ul>
 
         </div>
