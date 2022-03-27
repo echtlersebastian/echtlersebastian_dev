@@ -5,8 +5,8 @@
     "description": "Get to know me and projects I am working on at the moment.",
     "description2": "Let me know, if you have any questions!",
     "image": "https://avatars.githubusercontent.com/u/37330287?v=4",
-    "bio": "Hey! I am a tech focused guy with an entrepreneurial spirit and a passion for coding. I love to see progress being made, if it's reaching a milestone on a project or achieving personal life goals. I love discussing all things technological. It is my personal belief that everybody can make a change towards a better future for everyone. I am always thrilled to learn more, which is why I am currently trying to learn chess! In my free time i like going to the gym or spending time outdoors on a camping trip or fishing. ",
-    "contactmessage": "I am sorry, the Contact Form is currently not working. Please reach out to me via E-Mail or LinkedIn. I am working on fixing it. ",
+    "bio": "Hey! I am a tech focused guy with an entrepreneurial spirit and a passion for coding. I love to see progress being made, if it's reaching a milestone on a project or achieving personal life goals. I love discussing all things technological. It is my personal belief that everybody can make a change towards a better future for everyone. I am always thrilled to learn more, which is why I am currently trying to learn chess! In my free time i like going to the gym or spending time outdoors on a camping trip. 🏕",
+    "contactmessage": "I am sorry, the Contact Form is currently not working. Please reach out to me via E-Mail or LinkedIn. ",
     "email": "mail@echtlersebastian.de",
     "phone": "0176 81547312",
     "address": {
@@ -51,7 +51,7 @@
         "company": "CGI",
         "title": "Senior Consultant",
         "years": "August 2019 - today",
-        "description": "I am currently working as a Senior Consultant at CGI. I am responsible for the technical implementation of different Dynamcis 365 Environments for our clients. I am also responsible for several internal projects like the developement of different MS Teams-Apps or a .NET/Angular Web Service."
+        "description": "I am currently working as a Senior Consultant at CGI. I am responsible for the technical implementation of different Dynamcis 365 Environments for our clients. I mainly work as a project manager / solution architect. I am also responsible for several internal projects like the developement of different MS Teams-Apps or some .NET / Angular Web Services. I am the go-to guy, if there is any technical problem to solve."
       },
       {
         "company": "Acando",
@@ -69,13 +69,13 @@
         "company": "Liebherr-Verzahntechnik GmbH",
         "title": "Working Student Softwaredevelopement",
         "years": "May 2016 - May 2017",
-        "description": "As a working Student i mostly worked on a SharePoint Project to automate processes. I developed a .Net based WPF Application, that did a lot of Word and PDF Magic for the users, saving them a lot of time."
+        "description": "As a working Student i worked on a SharePoint Project to automate processes. I developed a .Net based WPF Application, that did a lot of Word and PDF Magic for the users, saving them a lot of time."
       },
       {
         "company": "BMW Group",
         "title": "Internship at Prokuktaudit",
         "years": "November 2015 - May 2016",
-        "description": "During my internship I mostly worked on Excel and SharePoint Automation. I also helped revising processes and developed techical solutions for the various problems."
+        "description": "During my internship I mostly worked on Excel and SharePoint automation. I also helped revising processes and developed techical solutions for the various problems."
       }
     ],
     "skills": [
